@@ -1,3 +1,20 @@
+0.37.3
+    Add new osgi events when plugins are being started/restarted
+
+0.37.2
+    Update parent oss pom.xml to have the correct transitive dependencies in killbill
+
+0.37.1
+    Merge features from master, mostly InfluxDB protocols
+
+0.36.13
+    Update to killbill-oss-parent 0.140.48
+
+0.36.12
+    metrics: add InfluxDB integration
+    osgi: add new config property org.killbill.billing.osgi.dao.initializationFailFast
+    Update to killbill-oss-parent 0.140.44
+
 0.36.11
     Multi-regions support
 
